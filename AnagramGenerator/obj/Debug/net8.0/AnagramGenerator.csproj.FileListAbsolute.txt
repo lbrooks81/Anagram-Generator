@@ -1,0 +1,14 @@
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\bin\Debug\net8.0\AnagramGenerator.exe
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\bin\Debug\net8.0\AnagramGenerator.deps.json
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\bin\Debug\net8.0\AnagramGenerator.runtimeconfig.json
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\bin\Debug\net8.0\AnagramGenerator.dll
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\bin\Debug\net8.0\AnagramGenerator.pdb
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.AssemblyInfoInputs.cache
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.AssemblyInfo.cs
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.dll
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\refint\AnagramGenerator.dll
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.pdb
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\AnagramGenerator.genruntimeconfig.cache
+C:\Users\Glog\Desktop\Year Two\Term 1\Data Structures and Algorithms\AnagramGenerator\AnagramGenerator\obj\Debug\net8.0\ref\AnagramGenerator.dll
